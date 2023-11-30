@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rules And Scripts
 
 ## 前言
@@ -70,3 +71,6 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 [@BaileyZyp](https://github.com/BaileyZyp)   [@Mazeorz](https://github.com/Mazeorz)   [@LuzMasonj](https://github.com/LuzMasonj)  [@chouchoui](https://github.com/chouchoui)  [@ypannnn](https://github.com/ypannnn)  [@echizenryoma](https://github.com/echizenryoma)  [@zirawell](https://github.com/zirawell)  [@urzz](https://github.com/urzz)  [@ASD-max](https://github.com/ASD-max)
 
+=======
+完全克隆blackmatrix7大佬仓库内容
+>>>>>>> f954affbab0e544b150323cc4a145db228b3b907
