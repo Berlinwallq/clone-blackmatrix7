@@ -1,13 +1,13 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-20 02:10:42
+# UPDATED: 2023-11-30 02:11:07
 # DOMAIN: 9
-# DOMAIN-KEYWORD: 5
-# DOMAIN-SUFFIX: 1546
+# DOMAIN-KEYWORD: 7
+# DOMAIN-SUFFIX: 1549
 # IP-CIDR: 10
 # PROCESS-NAME: 7
-# TOTAL: 1577
+# TOTAL: 1582
 appldnld.apple.com.edgesuite.net
 apple-events.akamaized.net
 appleworldwidedeveloper.hb-api.omtrdc.net
@@ -590,6 +590,7 @@ p-events-delivery.akamaized.net
 +.casquemonsterbeatsbydre2013.com
 +.casquesbeatsaudio.com
 +.catalina.hk
++.cdn-apple-mapkit.com
 +.cheap-beats-by-dre.net
 +.cheap-beatsbydre.com
 +.cheapbagshoes.com
@@ -682,6 +683,7 @@ p-events-delivery.akamaized.net
 +.discountbeatsbydre-us.com
 +.discountbeatsstore.com
 +.discussionsapple.com
++.dispatcher.is.autonavi.com
 +.dkbeatsbydre.com
 +.dot-mac.de
 +.dotmac.de
@@ -853,6 +855,7 @@ p-events-delivery.akamaized.net
 +.lojaiphone.com.br
 +.lovebeatsdr.com
 +.lovemarca.com
++.ls.apple.com.edgesuite.net
 +.luckyissue.com
 +.lyzsxx.com
 +.mac-mini.com
@@ -1520,11 +1523,9 @@ p-events-delivery.akamaized.net
 +.wwwipodlounge.com
 +.wwwmacbookair.com
 +.apple.comscoreresearch.com
-+.apple.news
 +.appleenews.com
 +.applemusic.berlin
 +.applemusic.co
-+.applemusic.com
 +.applemusic.com.au
 +.applemusic.hamburg
 +.applemusic.wang
@@ -1557,9 +1558,11 @@ p-events-delivery.akamaized.net
 +.iphoto.wang
 +.musickit.net
 +.wwwapplemusic.com
++.applemusic.com
 +.apple-dns.net
++.apple.news
++.cdn-apple.com
 +.digicert.com
 +.apple-cloudkit.com
 +.apple-livephotoskit.com
 +.apzones.com
-+.cdn-apple.com

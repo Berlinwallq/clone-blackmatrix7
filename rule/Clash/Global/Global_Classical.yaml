@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-20 02:13:35
+# UPDATED: 2023-11-28 15:49:05
 # DOMAIN: 156
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 19273
+# DOMAIN-SUFFIX: 19278
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19583
+# TOTAL: 19588
 payload:
   - DOMAIN,a.ppy.sh
   - DOMAIN,adobeereg.com
@@ -504,6 +504,7 @@ payload:
   - DOMAIN-SUFFIX,aanaan.com
   - DOMAIN-SUFFIX,aavs.xyz
   - DOMAIN-SUFFIX,abbywintersfree.com
+  - DOMAIN-SUFFIX,abc-studios.com
   - DOMAIN-SUFFIX,abcheadphones.com
   - DOMAIN-SUFFIX,abclider.com
   - DOMAIN-SUFFIX,abeatsbydrdre.com
@@ -3093,6 +3094,7 @@ payload:
   - DOMAIN-SUFFIX,cloudcredibility.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare-ech.com
+  - DOMAIN-SUFFIX,cloudflare-esni.com
   - DOMAIN-SUFFIX,cloudflare-gateway.com
   - DOMAIN-SUFFIX,cloudflare-quic.com
   - DOMAIN-SUFFIX,cloudflare.net
@@ -3238,6 +3240,7 @@ payload:
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
+  - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,copro.pw
   - DOMAIN-SUFFIX,coqnu.com
   - DOMAIN-SUFFIX,corbinfisher.com
@@ -4199,6 +4202,7 @@ payload:
   - DOMAIN-SUFFIX,edditstatic.com
   - DOMAIN-SUFFIX,edengay.net
   - DOMAIN-SUFFIX,edge-skype-com.s-0001.s-msedge.net
+  - DOMAIN-SUFFIX,edgedatg.com
   - DOMAIN-SUFFIX,edgefonts.net
   - DOMAIN-SUFFIX,edgemeplease.com
   - DOMAIN-SUFFIX,edisebay.com
@@ -6939,6 +6943,7 @@ payload:
   - DOMAIN-SUFFIX,iromod91.info
   - DOMAIN-SUFFIX,irotv301.top
   - DOMAIN-SUFFIX,irribay.com
+  - DOMAIN-SUFFIX,isbgpsafeyet.com
   - DOMAIN-SUFFIX,isca-speech.org
   - DOMAIN-SUFFIX,ischool.com
   - DOMAIN-SUFFIX,isfocus.net
@@ -8591,6 +8596,7 @@ payload:
   - DOMAIN-SUFFIX,myminiso.com
   - DOMAIN-SUFFIX,mymmode.com
   - DOMAIN-SUFFIX,mymusclevideo.com
+  - DOMAIN-SUFFIX,mynetname.net
   - DOMAIN-SUFFIX,mynike.com
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,mypearson.com
@@ -8606,7 +8612,6 @@ payload:
   - DOMAIN-SUFFIX,mypornvid.fun
   - DOMAIN-SUFFIX,mypornwap.fun
   - DOMAIN-SUFFIX,myq2.com
-  - DOMAIN-SUFFIX,myqnapcloud.cn
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,myrewardzone.com
   - DOMAIN-SUFFIX,myrimmingporn.com

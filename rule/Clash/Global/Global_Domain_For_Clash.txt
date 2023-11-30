@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-20 02:13:35
+# UPDATED: 2023-11-28 15:49:05
 # DOMAIN: 156
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 19273
+# DOMAIN-SUFFIX: 19278
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19583
+# TOTAL: 19588
 a.ppy.sh
 adobeereg.com
 angle.com.tw
@@ -503,6 +503,7 @@ cloud.oracle.com
 +.aanaan.com
 +.aavs.xyz
 +.abbywintersfree.com
++.abc-studios.com
 +.abcheadphones.com
 +.abclider.com
 +.abeatsbydrdre.com
@@ -3092,6 +3093,7 @@ cloud.oracle.com
 +.cloudcredibility.com
 +.cloudflare-dns.com
 +.cloudflare-ech.com
++.cloudflare-esni.com
 +.cloudflare-gateway.com
 +.cloudflare-quic.com
 +.cloudflare.net
@@ -3237,6 +3239,7 @@ cloud.oracle.com
 +.coova.com
 +.coova.net
 +.coova.org
++.copilot.microsoft.com
 +.copro.pw
 +.coqnu.com
 +.corbinfisher.com
@@ -4198,6 +4201,7 @@ cloud.oracle.com
 +.edditstatic.com
 +.edengay.net
 +.edge-skype-com.s-0001.s-msedge.net
++.edgedatg.com
 +.edgefonts.net
 +.edgemeplease.com
 +.edisebay.com
@@ -6938,6 +6942,7 @@ cloud.oracle.com
 +.iromod91.info
 +.irotv301.top
 +.irribay.com
++.isbgpsafeyet.com
 +.isca-speech.org
 +.ischool.com
 +.isfocus.net
@@ -8590,6 +8595,7 @@ cloud.oracle.com
 +.myminiso.com
 +.mymmode.com
 +.mymusclevideo.com
++.mynetname.net
 +.mynike.com
 +.myoctocat.com
 +.mypearson.com
@@ -8605,7 +8611,6 @@ cloud.oracle.com
 +.mypornvid.fun
 +.mypornwap.fun
 +.myq2.com
-+.myqnapcloud.cn
 +.myqnapcloud.com
 +.myrewardzone.com
 +.myrimmingporn.com
