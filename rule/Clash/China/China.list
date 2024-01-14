@@ -1,24 +1,22 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-28 15:49:37
-# DOMAIN: 19
+# UPDATED: 2024-01-08 16:00:05
+# DOMAIN: 17
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3680
+# DOMAIN-SUFFIX: 3678
 # IP-CIDR: 17
 # IP-CIDR6: 4
-# TOTAL: 3729
+# TOTAL: 3725
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,client.amplifi.com
-DOMAIN,dl.google.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
-DOMAIN,mtalk.google.com
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,outlook.office365.com
@@ -777,7 +775,6 @@ DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,chaoxingv.com
 DOMAIN-SUFFIX,chashebao.com
 DOMAIN-SUFFIX,chazhengla.com
-DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,che168.com
 DOMAIN-SUFFIX,checkzeit.com
 DOMAIN-SUFFIX,cheng.xin
@@ -1469,7 +1466,6 @@ DOMAIN-SUFFIX,gongxiangcj.com
 DOMAIN-SUFFIX,gongyi.xin
 DOMAIN-SUFFIX,goodread.com
 DOMAIN-SUFFIX,goofish.com
-DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,goosail.com
 DOMAIN-SUFFIX,goproxy.io
 DOMAIN-SUFFIX,goselling.com

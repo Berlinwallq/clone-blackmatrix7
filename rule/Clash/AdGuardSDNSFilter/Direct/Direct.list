@@ -1,9 +1,9 @@
 # NAME: AdGuardSDNSFilterDirect
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-28 15:51:11
-# DOMAIN: 118
-# TOTAL: 118
+# UPDATED: 2024-01-08 16:01:43
+# DOMAIN: 122
+# TOTAL: 122
 DOMAIN,5471782.fls.doubleclick.net
 DOMAIN,79423.analytics.edgekey.net
 DOMAIN,a.adwolf.ru
@@ -47,6 +47,7 @@ DOMAIN,clickattr.wayup.com
 DOMAIN,cloud.notification-naviextras.com
 DOMAIN,cm-beacon.nakanohito.jp
 DOMAIN,cm-widget.nakanohito.jp
+DOMAIN,cmp.inmobi.com
 DOMAIN,crm-cdn.peek-cloppenburg.com
 DOMAIN,cs.silverpop.com
 DOMAIN,cutcaptcha.com
@@ -103,8 +104,10 @@ DOMAIN,pt.afl.rakuten.co.jp
 DOMAIN,public-cis.exponea.com
 DOMAIN,px.a8.net
 DOMAIN,radiofrance.targetspot.com
+DOMAIN,recommender.scarabresearch.com
 DOMAIN,redir.tradedoubler.com
 DOMAIN,redirect.appmetrica.yandex.com
+DOMAIN,refer.discover.com
 DOMAIN,remembering.ca
 DOMAIN,sponsor.nitropay.com
 DOMAIN,stash.roistat.com
@@ -116,6 +119,7 @@ DOMAIN,tags.crwdcntrl.net
 DOMAIN,thumbnail.thench.net
 DOMAIN,tlaol.com
 DOMAIN,torimochi.line-apps.com
+DOMAIN,tr.rdrtr.com
 DOMAIN,track.rutarget.ru
 DOMAIN,validate.perfdrive.com
 DOMAIN,vcentry3.valuecommerce.ne.jp
